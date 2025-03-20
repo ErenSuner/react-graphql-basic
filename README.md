@@ -11,7 +11,7 @@ This application provides a simple interface to create and view user profiles. I
 - Viewing selected user details
 - Dark/light theme switching with persistent preferences
 
-![UI Design Preview](https://imgur.com/a/TD0DTtu)
+![UI Design Preview](https://imgur.com/a/jMT7wDK)
 
 ## 🚀 Technologies Used
 
